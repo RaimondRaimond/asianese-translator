@@ -1,7 +1,7 @@
 # Python関連
 asianese_translator/venv/
 __pycache__/
-*.__pycache__
+**/__pycache__/
 
 #エディタ/OS関連
 .DS_Store
